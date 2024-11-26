@@ -1,0 +1,8 @@
+/home/kamogelo-codebrain/projects/azure/certs/azure-204/web-app/bin/publish/web-app
+/home/kamogelo-codebrain/projects/azure/certs/azure-204/web-app/bin/publish/appsettings.Development.json
+/home/kamogelo-codebrain/projects/azure/certs/azure-204/web-app/bin/publish/appsettings.json
+/home/kamogelo-codebrain/projects/azure/certs/azure-204/web-app/bin/publish/web-app-arm.json
+/home/kamogelo-codebrain/projects/azure/certs/azure-204/web-app/bin/publish/web-app.dll
+/home/kamogelo-codebrain/projects/azure/certs/azure-204/web-app/bin/publish/web-app.deps.json
+/home/kamogelo-codebrain/projects/azure/certs/azure-204/web-app/bin/publish/web-app.runtimeconfig.json
+/home/kamogelo-codebrain/projects/azure/certs/azure-204/web-app/bin/publish/web-app.pdb
